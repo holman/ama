@@ -33,3 +33,14 @@ into some of the older threads.
 If you have something quick and easy, just ping me on Twitter. 140 characters
 makes everyone more efficient. I'm [@holman](https://twitter.com/holman) on
 Twitter.
+
+---
+
+#### Want your own?
+
+If you'd like to have one for yourself,
+* Just fork this repo
+* Edit the README (Replace my name and links with yours)
+* *Enable issues* (under settings) in the forked repo
+
+You're all set!
